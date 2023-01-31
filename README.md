@@ -81,4 +81,3 @@ The following third-party scripts have been added:
 - [CookieYes](https://app.cookieyes.com/)
     - Added to Hello child theme's header.php file
     - Adds cookie consent popup & tracks cookies used on the site
-# relycomply
