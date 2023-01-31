@@ -72,7 +72,7 @@ The additional features (plugins) added are the following:
 - [CookieYes](https://app.cookieyes.com/)
     - Adds cookie consent popup & tracks cookies used on the site
 
-> Plugins on the site have been kept to a minimal for performance reasons.
+> Plugins on the site have been kept to a minimum for performance reasons.
 
 > Plugins need to be updated periodically (ideally once a month). Updates should be tested in the staging environment before being performed on the live site.
 
