@@ -36,13 +36,13 @@ A post containing a report needs to be created using Elementor page builder sinc
     - **Add a drop cap** and set the colour to 'Accent'. 
     - The widget will automatically be placed in a **new container**. Padding (spacing) is added to the container by default. **Change the padding amount to 0**. Note: any additional widgets should be added to the same container, with the exception of the report download form. 
 
-<video width="100%" controls>
+<video width="100%" controls="" muted="" loop="" autoplay="">
   <source src="https://claudia-nydahl.github.io/relycomply/assets/videos/Post-Inserting-Text-min.mp4" type="video/mp4">
 </video>
 
 5. To add the report download form, insert the template titled **'Report Form (Section + Widgets)'**. When asked to apply settings, choose **'Don't Apply'**. Give the form a unique name so that form submissions can be differentiated.
 
-<video width="100%" controls>
+<video width="100%" controls="" muted="" loop="" autoplay="">
   <source src="https://claudia-nydahl.github.io/relycomply/assets/videos/Post-Inserting-Report-Form.min.mp4" type="video/mp4">
 </video>
 
