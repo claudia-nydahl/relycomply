@@ -69,6 +69,8 @@ The additional features (plugins) added are the following:
     - Adds custom fields to each blog post (Featured toggle & Report File input)
 - [LiteSpeed Cache](https://wordpress.org/plugins/litespeed-cache/)
     - Purge the cache after making global template changes
+- [CookieYes](https://app.cookieyes.com/)
+    - Adds cookie consent popup & tracks cookies used on the site
 
 > Plugins on the site have been kept to a minimal for performance reasons. 
 
@@ -78,6 +80,3 @@ The following third-party scripts have been added:
 
 - Google Tag Manager
     - Added to Elementor > Custom Code
-- [CookieYes](https://app.cookieyes.com/)
-    - Added to Hello child theme's header.php file
-    - Adds cookie consent popup & tracks cookies used on the site
