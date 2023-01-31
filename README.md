@@ -68,7 +68,9 @@ The additional features (plugins) added are the following:
 - [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
     - Adds custom fields to each blog post (Featured toggle & Report File input)
 - [LiteSpeed Cache](https://wordpress.org/plugins/litespeed-cache/)
-    - Purge the cache after making global template changes
+    - Cache and performance optimisation. Purge the cache after making global template changes
+- [All in One SEO](https://wordpress.org/plugins/all-in-one-seo-pack/)
+    - Adds SEO tools
 - [CookieYes](https://app.cookieyes.com/)
     - Adds cookie consent popup & tracks cookies used on the site
 
